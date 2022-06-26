@@ -6,7 +6,7 @@ Return of the mempool
 Welcome to zkMEV repository! Go [zkMEV](https://franz101.github.io/zk-mev-frontend/) Now! May the zkMEV be with you.
 
 ## Light side of the zkMEV
-Commit-Reveal buy order smart contract what is validated by customized OpenSea Seaport zone smart contract.
+Commit-Reveal buy order smart contract what is validated by customized OpenSea Seaport zone smart contract. The buyer uses two transactions (commit and reveal) to buy a NFT from OpenSea and transfer of ownership happens with a third transaction (to Seaport) which validates execution of (commit and reveal) buy order.
 
 ## Dark side of the zkMEV
 Sniper bot
