@@ -5,6 +5,11 @@ Return of the mempool
 
 Welcome to zkMEV repository! Go [zkMEV](https://franz101.github.io/zk-mev-frontend/) Now! May the zkMEV be with you.
 
+## Light side of the zkMEV 
+
+## Dark side of the zkMEV
+Sniper bot
+
 ## Below are links to the deployed smart contracts
 
 #### Rinkeby
