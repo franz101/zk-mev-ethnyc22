@@ -1,5 +1,4 @@
 # zk-mev-ethnyc22
-Return of the mempool
 
 ![zkMEV](./img/zkMEV.png)
 
@@ -13,13 +12,17 @@ Sniper bot
 
 ## Below are links to the deployed smart contracts
 
+#### Polygon Mumbai
+[OpenSea Commit-Reveal Contract](https://mumbai.polygonscan.com/address/0x9ff71ecC4A1F758510fDf326A7e4E1b8e7469C0C#code)   
+[OpenSea Seaport Zone Contract](https://mumbai.polygonscan.com/address/0x725a2656104eF581b8a1d9A55702302514E2266B#code)
+
+#### Optimistic Kovan Testnet
+[OpenSea Commit-Reveal Contract](https://kovan-optimistic.etherscan.io/address/0x7dfc8a93b3d4bace86c9215056af7ad77567495c#code)   
+[OpenSea Seaport Zone Contract](https://kovan-optimistic.etherscan.io/address/0x94bcdb005d429764067c03eb1ad683dca9f6de17#code)
+
 #### Rinkeby
 [OpenSea Commit-Reveal Contract](https://rinkeby.etherscan.io/address/0x0eefca095F4aCA83cc82582e9c0D5CbEcfaC62f5#code)   
 [OpenSea Seaport Zone Contract](https://rinkeby.etherscan.io/address/0x130Ef2A661C171ec3bAcaEC0F4CE229E0bc29379#code)
-
-#### Mumbai
-[OpenSea Commit-Reveal Contract](https://mumbai.polygonscan.com/address/0x9ff71ecC4A1F758510fDf326A7e4E1b8e7469C0C#code)   
-[OpenSea Seaport Zone Contract](https://mumbai.polygonscan.com/address/0x725a2656104eF581b8a1d9A55702302514E2266B#code)
 
 ## :heavy_check_mark: Debugging was done with the best tools!
 
