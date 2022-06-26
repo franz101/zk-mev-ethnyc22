@@ -1,7 +1,7 @@
 # zk-mev-ethnyc22
 Return of the mempool
 
-![zkMEV](./img/getSponsor.PNG)
+![zkMEV](./img/zkMEV.png)
 
 Welcome to zkMEV repository! Go [zkMEV](https://franz101.github.io/zk-mev-frontend/) Now! May the zkMEV be with you.
 
