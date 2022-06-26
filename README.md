@@ -13,6 +13,7 @@ To prevent frontrunning, the zkMEV requires a commit/reveal process to buy NFT. 
 - Send a request to Seaport to transfer ownership
 
 ![commit-reveal](./img/commit-reveal.png){height=500 width=500}!
+<img src="./img/commit-reveal.png" width=50% height=50%>
 
 ## Dark side of the zkMEV
 Sniper bot
