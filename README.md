@@ -5,7 +5,12 @@
 Welcome to zkMEV repository! Go [zkMEV](https://franz101.github.io/zk-mev-frontend/) Now! May the zkMEV be with you.
 
 ## Light side of the zkMEV
-Commit-Reveal buy order smart contract what is validated by customized OpenSea Seaport zone smart contract. The buyer uses two transactions (commit and reveal) to buy a NFT from OpenSea and transfer of ownership happens with a third transaction (to Seaport) which validates execution of (commit and reveal) buy order.
+To prevent frontrunning, the zkMEV requires a commit/reveal process to buy NFT. Commit-Reveal smart contract is validated by customized OpenSea Seaport zone smart contract. The user must:
+- Generate a commitment hash from the NFT what they want to buy and a secret value.
+- Submit the commitment hash from #1 with ether.
+- Wait for at least 1 minute, but no longer than 24 hours.
+- Submit a buy request for the NFT, along with the secret value from #1.
+- Send a request to Seaport to transfer ownership
 
 ## Dark side of the zkMEV
 Sniper bot
